@@ -1,7 +1,9 @@
 # FUN
-Having fun. 
+*Having fun.*
 
-Here I train my python skills with several FUN projects.
-FUN stands for: "Fui Un Necio". 
+Here I train my python skills with several FUN projects.  
+<br>
+> *FUN stands for: 'Fui Un Necio'.*
+<br>
 
 ~Marcos
